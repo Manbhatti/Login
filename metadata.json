@@ -1,0 +1,8 @@
+{
+  "name": "Login page",
+  "description": "Student learning dashboard and administrator management portal with course resources, quizzes, and Firebase Auth account password reset recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
